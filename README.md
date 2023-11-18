@@ -1,9 +1,47 @@
-- 👋 Hi, I’m Luis Rossi, Former Airline Pilot and now studying Software Engineering.
-- 👀 I’m interested in Embedded Systems, Back-end development, Data Mining and Big Data.
-- 🌱 I’m currently learning Java, Go and Haskell
-- 💞️ I’m looking to collaborate on Java, C and Flutter projects
-- 📫 How to reach me: lfcr93@gmail.com
-<!---
-lfcr9311/lfcr9311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Luis Rossi
+
+Bem-vindo ao meu perfil GitHub! 👋
+
+- 🚀 Apaixonado por aprender novas tecnologias e enfrentar desafios criativos.<br>
+- 🌱 Contribuindo para projetos de código aberto e compartilhando conhecimento.<br>
+- 📚 Sempre buscando aprimorar minhas habilidades e explorar novas áreas.<br>
+
+ <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50px"/>
+</p>
+
+
+## Quem Sou Eu
+
+Ex-piloto de linha aérea e Estudante de Engenharia de Software. 
+
+## Estatísticas do GitHub
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lfcr9311&theme=dark&show_icons=true" alt="Estatísticas do GitHub" height=200px>
+</p>
+  
+  
+## Contato
+
+Conecte-se comigo:
+
+<a href="https://www.linkedin.com/in/luis-felipe-copetti-rossi-86780541/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50px" />
+</a>
+<a href="mailto:lfcr93@gmail.com">
+  <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" height="50px" />
+</a>
+
+## Licença
+
+Este perfil é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
