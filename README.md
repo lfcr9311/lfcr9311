@@ -9,14 +9,13 @@ Bem-vindo ao meu perfil GitHub! 👋
 Linguagens que eu uso/usei para ideias e projetos:
     <br>
     <br>
-<div class="image-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50px" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50px"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50px"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50px"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50px"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50px"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50px" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50px" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50px" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50px" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50px" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50px" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;" /> 
     <br>
     <br>
     Ferramentas que uso/usei para ideias e projetos: 
@@ -27,14 +26,6 @@ Linguagens que eu uso/usei para ideias e projetos:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50px"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="50px"/>
-</div>
-<style>
-  .image-container img {
-    background-color: white; /* Mude para a cor desejada */
-    padding: 10px; /* Ajuste o padding conforme necessário */
-    border-radius: 5px; /* Adiciona bordas arredondadas, opcional */
-  }
-</style>
           
     
 
