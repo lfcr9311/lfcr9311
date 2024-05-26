@@ -23,7 +23,7 @@ Linguagens que eu uso/usei para ideias e projetos:
     <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="50px"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="50px"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="50px"/> 
+    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg](https://icons8.com/icon/30659/apple-logo)" height="50px"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50px"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="50px"/>
