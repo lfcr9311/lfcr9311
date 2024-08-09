@@ -11,7 +11,7 @@ Linguagens que eu uso/usei para ideias e projetos:
     <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50px" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;" /> 
-<img src="https://icons8.com/icon/Fycm8TUhWmFU/c-afiado-logotipo" height="50px" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;"/>
+<img src="https://img.icons8.com/nolan/512/c-sharp-logo.png" height="50px" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50px" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50px" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50px" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;" /> 
