@@ -35,7 +35,7 @@ Ferramentas que uso/usei para ideias e projetos:
 
 ## Quem Sou Eu
 
-Ex-piloto de linha aérea e Estudante de Engenharia de Software. 
+Ex-piloto de linha aérea e Engenheiro de Software. 
 
 ## Estatísticas do GitHub
 <p>
