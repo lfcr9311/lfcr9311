@@ -16,7 +16,6 @@ Welcome to my GitHub profile 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50px" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50px" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50px" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50px" /> 
   <img src="https://img.icons8.com/?size=100&id=AeV543ttZrcT&format=png&color=000000" height="50px"/>
 </div>
 
@@ -27,8 +26,13 @@ Welcome to my GitHub profile 👋
   <img src="https://img.icons8.com/color/480/git.png" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50px"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="50px"/>
   <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="Apple" height="50px" style="filter: invert(100%);">
+  
 </div>
 
 ## About Me
@@ -38,7 +42,10 @@ I value solid engineering, reliable systems, and well-built solutions that stand
 
 ## GitHub Stats
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=lfcr9311&theme=dark&show_icons=true" alt="Estatísticas do GitHub" height=200px> </p>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=lfcr9311&theme=dark" alt="GitHub Streak Stats"></a>
+  <a href="https://github.com/sallar/github-contributions-chart"><img src="https://github-contributions.vercel.app/api/v1/lfcr9311?theme=github_dark" alt="GitHub Contributions Heatmap"></a>
+</p>
 
 ## Contact
 
