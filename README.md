@@ -42,10 +42,17 @@ I value solid engineering, reliable systems, and well-built solutions that stand
 
 ## GitHub Stats
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=lfcr9311&theme=dark" alt="GitHub Streak Stats"></a>
-  <a href="https://github.com/sallar/github-contributions-chart"><img src="https://github-contributions.vercel.app/api/v1/lfcr9311?theme=github_dark" alt="GitHub Contributions Heatmap"></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lfcr9311&theme=github_dark" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lfcr9311&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+
 
 ## Contact
 
